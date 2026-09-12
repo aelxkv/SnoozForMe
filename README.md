@@ -1,6 +1,6 @@
 ## Basic Details
 
-###CLUS
+# CLUS
 
 ### Team Members
 Adhi Sankar A - [Carmel Collage of Engineering and Technology]
