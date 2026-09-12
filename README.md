@@ -1,11 +1,10 @@
 ## Basic Details
 
-### Team Name: [Your Team Name]
+###CLUS
 
 ### Team Members
-
-- Member 1: [Adhi Sankar A] - [Carmel Collage of Engineering and Technology]
-- Member 2: [Alex K V] - [Carmel Collage of Engineering and Technology]
+Adhi Sankar A - [Carmel Collage of Engineering and Technology]
+Alex K V - [Carmel Collage of Engineering and Technology]
 
 ### Project Description
 
